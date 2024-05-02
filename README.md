@@ -1,5 +1,3 @@
-## README.md conteúdo
-
 # Bem-vindo ao GitTogether Fortaleza 🚀
 
 Junte-se a nós para o GitTogether Fortaleza – o encontro definitivo para desenvolvedores em e ao redor de Fortaleza, Brasil. Promovido pelo GitHub e liderado por especialistas da comunidade, nossos eventos abrangem diversos tópicos como IA, Open Source e Segurança. Participe de discussões, workshops e oportunidades de networking com colegas que compartilham os mesmos interesses, independentemente do seu nível de habilidade.
