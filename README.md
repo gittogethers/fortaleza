@@ -84,5 +84,5 @@ Vamos construir uma comunidade open-source mais forte em Fortaleza, juntos!
 
 Você também pode conferir os GitTogethers em outras cidades do Brasil:
 
-- São Paulo: [gittogether-saopaulo](https://github.com/gittogether-saopaulo)
-- Florianópolis: [gittogether-florianopolis](https://github.com/gittogether-florianopolis)
+- São Paulo: [gittogether-saopaulo](https://github.com/gittogether/saopaulo)
+- Florianópolis: [gittogether-florianopolis](https://github.com/gittogether/florianopolis)
