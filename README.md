@@ -46,8 +46,12 @@ Nós nos esforçamos para criar um ambiente acolhedor e inclusivo para todos. Po
         
 *   **Participe de nossas discussões comunitárias:** https://github.com/gittogethers/fortaleza/discussions/
     
+Vamos construir uma comunidade open-source mais forte em Fortaleza, juntos!
 
-Vamos unir forças para construir uma comunidade de código aberto mais forte em Fortaleza!
+Você também pode conferir os GitTogethers em outras cidades do Brasil:
+
+- São Paulo: [gittogether-saopaulo](https://github.com/gittogether/saopaulo)
+- Florianópolis: [gittogether-florianopolis](https://github.com/gittogether/florianopolis)
 
 Conheça seus líderes
 --------------------
@@ -78,9 +82,4 @@ Conheça seus líderes
     </td>
 
 
-Vamos construir uma comunidade open-source mais forte em Fortaleza, juntos!
 
-Você também pode conferir os GitTogethers em outras cidades do Brasil:
-
-- São Paulo: [gittogether-saopaulo](https://github.com/gittogether/saopaulo)
-- Florianópolis: [gittogether-florianopolis](https://github.com/gittogether/florianopolis)
