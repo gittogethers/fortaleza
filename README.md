@@ -36,8 +36,6 @@ O Brasil possui uma das maiores comunidades de desenvolvedores no GitHub e conti
 
 Nós nos esforçamos para criar um ambiente acolhedor e inclusivo para todos. Por favor, seja respeitoso em suas interações e siga nosso [Código de Conduta](link) e as Diretrizes da Comunidade do GitHub.
 
-Aqui está a versão em português:
-
 ## Mantenha-se Conectado!
 
 *   **Siga-nos nas redes sociais:**
